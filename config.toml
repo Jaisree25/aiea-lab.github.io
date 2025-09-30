@@ -19,7 +19,6 @@ tag = "tags"
   author = "Leilani H. Gilpin"
 #  email = "mail@example.org"
   address = "UCSC - Santa Cruz, CA"
-  authors = []
 
   slogan = "AIEA Lab at UCSC"
   slogan_text = "Artificial Intelligence Explainability Accountability (AIEA) Lab"
